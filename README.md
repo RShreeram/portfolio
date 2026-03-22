@@ -21,3 +21,26 @@
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Run
+
+1. Download or clone repo
+2. Open `index.html` in browser
+
+---
+
+## 📸 Preview
+(Add screenshot here later)
+
+---
+
+## 👨‍💻 Author
+Shreeram R  
+📧 shreeramramchandran@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shree-ram-r-392477253/
+
+---
+
+⭐ If you like this project, give it a star!
